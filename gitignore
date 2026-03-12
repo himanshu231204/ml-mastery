@@ -1,0 +1,33 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Data files (datasets should be downloaded, not committed)
+*.csv
+*.xlsx
+*.parquet
+*.h5
+!03_projects/titanic/titanic.csv
+!03_projects/house_price/train.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
