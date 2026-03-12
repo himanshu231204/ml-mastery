@@ -131,3 +131,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding notebooks, fixin
 ## License
 
 MIT License — free to use, share, and modify with attribution.
+
+## 👨‍💻 Author
+ 
+**Himanshu Kumar**
+ 
+- 🌐 GitHub: [@himanshu231204](https://github.com/himanshu231204)
+- 💼 LinkedIn: [himanshu231204](https://www.linkedin.com/in/himanshu231204)
+- 🐦 Twitter/X: [@himanshu231204](https://twitter.com/himanshu231204)
+- 📧 Email: himanshu231204@gmail.com

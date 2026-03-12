@@ -68,3 +68,14 @@ Numerical: mean/median imputation (median for skewed data), or model-based imput
 
 **Q: What is the curse of dimensionality?**
 As the number of features grows, the volume of the space increases exponentially — data becomes sparse and distances become less meaningful. Models need exponentially more data to generalize well. Solutions: dimensionality reduction (PCA), feature selection, regularization.
+
+
+## 👨‍💻 Author
+ 
+**Himanshu Kumar**
+ 
+- 🌐 GitHub: [@himanshu231204](https://github.com/himanshu231204)
+- 💼 LinkedIn: [himanshu231204](https://www.linkedin.com/in/himanshu231204)
+- 🐦 Twitter/X: [@himanshu231204](https://twitter.com/himanshu231204)
+- 📧 Email: himanshu231204@gmail.com
+ 

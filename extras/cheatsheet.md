@@ -182,3 +182,12 @@ r2_score(y_test, y_pred)
 scores = cross_val_score(model, X, y, cv=5, scoring='accuracy')
 print(f"CV Accuracy: {scores.mean():.3f} ± {scores.std():.3f}")
 ```
+## 👨‍💻 Author
+ 
+**Himanshu Kumar**
+ 
+- 🌐 GitHub: [@himanshu231204](https://github.com/himanshu231204)
+- 💼 LinkedIn: [himanshu231204](https://www.linkedin.com/in/himanshu231204)
+- 🐦 Twitter/X: [@himanshu231204](https://twitter.com/himanshu231204)
+- 📧 Email: himanshu231204@gmail.com
+ 
