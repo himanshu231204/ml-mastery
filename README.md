@@ -3,7 +3,7 @@
 A structured, beginner-to-advanced reference repository for Machine Learning engineers.
 Every notebook is self-contained — open it, run it top to bottom, and learn.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ml-mastery/blob/main/01_libraries/numpy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/01_libraries/numpy.ipynb)
 
 ---
 
@@ -38,8 +38,8 @@ ml-mastery/
 │   └── model_evaluation.ipynb      # Metrics, cross-validation, bias-variance
 │
 ├── 03_projects/                # End-to-end ML projects on real datasets
-│   ├── titanic/                # Binary classification — survival prediction
-│   └── house_price/            # Regression — price prediction
+│   ├── titanic.ipynb           # Binary classification — survival prediction
+│   └── house_price.ipynb       # Regression — price prediction
 │
 ├── extras/                     # Quick reference materials
 │   ├── cheatsheet.md           # Most-used commands across all libraries
@@ -52,6 +52,42 @@ ml-mastery/
 
 ---
 
+## 📓 Notebooks Quick Access
+
+Click a notebook name to view it on GitHub, or the **Colab** badge to open it directly in Google Colab.
+
+### 01 — Libraries
+
+| Notebook | Description | Open |
+|---|---|---|
+| [numpy.ipynb](01_libraries/numpy.ipynb) | Arrays, operations, broadcasting, indexing | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/01_libraries/numpy.ipynb) |
+| [pandas.ipynb](01_libraries/pandas.ipynb) | DataFrames, cleaning, groupby, merging | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/01_libraries/pandas.ipynb) |
+| [matplotlib.ipynb](01_libraries/matplotlib.ipynb) | Plots, subplots, styling, saving figures | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/01_libraries/matplotlib.ipynb) |
+
+### 02 — ML Concepts
+
+| Notebook | Description | Open |
+|---|---|---|
+| [linear_regression.ipynb](02_ml_concepts/linear_regression.ipynb) | OLS, gradient descent, cost function | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/linear_regression.ipynb) |
+| [logistic_regression.ipynb](02_ml_concepts/logistic_regression.ipynb) | Sigmoid, log loss, decision boundary | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/logistic_regression.ipynb) |
+| [decision_trees.ipynb](02_ml_concepts/decision_trees.ipynb) | Entropy, Gini, information gain | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/decision_trees.ipynb) |
+| [random_forest.ipynb](02_ml_concepts/random_forest.ipynb) | Bagging, feature importance, OOB error | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/random_forest.ipynb) |
+| [svm.ipynb](02_ml_concepts/svm.ipynb) | Hyperplane, margin, kernel trick | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/svm.ipynb) |
+| [knn.ipynb](02_ml_concepts/knn.ipynb) | Distance metrics, choosing K | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/knn.ipynb) |
+| [naive_bayes.ipynb](02_ml_concepts/naive_bayes.ipynb) | Bayes theorem, conditional probability | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/naive_bayes.ipynb) |
+| [unsupervised.ipynb](02_ml_concepts/unsupervised.ipynb) | K-Means, DBSCAN, PCA, t-SNE | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/unsupervised.ipynb) |
+| [feature_engineering.ipynb](02_ml_concepts/feature_engineering.ipynb) | Encoding, scaling, selection, pipelines | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/feature_engineering.ipynb) |
+| [model_evaluation.ipynb](02_ml_concepts/model_evaluation.ipynb) | Metrics, cross-validation, bias-variance | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/02_ml_concepts/model_evaluation.ipynb) |
+
+### 03 — Projects
+
+| Notebook | Description | Open |
+|---|---|---|
+| [titanic.ipynb](03_projects/titanic.ipynb) | Binary classification — survival prediction | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/03_projects/titanic.ipynb) |
+| [house_price.ipynb](03_projects/house_price.ipynb) | Regression — price prediction | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshu231204/ml-mastery/blob/main/03_projects/house_price.ipynb) |
+
+---
+
 ## How to use this repo
 
 **Option 1 — Google Colab (recommended, zero setup)**
@@ -61,7 +97,7 @@ Click any "Open in Colab" badge at the top of each notebook. Everything runs in 
 **Option 2 — Local setup**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ml-mastery.git
+git clone https://github.com/himanshu231204/ml-mastery.git
 cd ml-mastery
 pip install -r requirements.txt
 jupyter notebook
