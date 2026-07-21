@@ -2,7 +2,7 @@
 
 # 🤖 ML Mastery
 
-### The Complete Machine Learning Reference — From Zero to Production
+### A Complete Machine Learning Reference — From Zero to Production
 
 *Learn every major ML algorithm with math intuition, from-scratch implementation, and real-world projects.*
 
@@ -30,7 +30,7 @@ Most ML tutorials give you either:
 
 > ✅ Plain English explanation → ✅ Mathematical derivation → ✅ Visual intuition → ✅ From-scratch NumPy code → ✅ Production sklearn code
 
-Whether you are a **complete beginner** or an **experienced engineer** brushing up before an interview, this is your one-stop reference.
+Whether you're a **complete beginner** or an **experienced engineer** brushing up for an interview, this is your one-stop reference.
 
 ---
 
@@ -74,14 +74,14 @@ ml-mastery/
 │
 ├── requirements.txt            # All dependencies
 ├── CONTRIBUTING.md             # How to contribute
-└── README.md                   # You are here
+└── README.md                   # Project README
 ```
 
 ---
 
 ## 📓 Notebooks Quick Access
 
-Click a notebook name to view it on GitHub, or the **Colab** badge to open it directly in Google Colab — **no setup required**.
+Click a notebook name to view it on GitHub, or click the **Colab** badge to open it directly in Google Colab — no setup required.
 
 ### 📦 01 — Libraries
 
