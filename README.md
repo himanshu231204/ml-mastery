@@ -234,3 +234,22 @@ Every star motivates continued improvement. Thank you! 🙏
 *Building tools that make machine learning accessible to everyone.*
 
 </div>
+
+## Titanic Passenger Group Performance Evaluation
+
+**Contributor:** Tramy Nguyen (GitHub: @tramynguyen-22)
+
+This contribution adds a new section to `03_projects/titanic.ipynb` that evaluates how accurately the trained Titanic survival prediction model performs across different passenger groups.
+
+### Features Added
+- Calculates prediction accuracy by gender, passenger class, and age group.
+- Creates three bar charts to compare accuracy across these groups.
+- Includes two basic tests to verify accuracy calculations.
+
+### How to Run
+1. Open `03_projects/titanic.ipynb` in JupyterLab.
+2. Run all cells from beginning to end.
+3. Scroll to Section 11 to view the group accuracy results, charts, and tests.
+
+### Purpose
+This analysis helps identify whether the model performs differently for certain passenger groups instead of relying only on overall accuracy.
